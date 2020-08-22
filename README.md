@@ -28,3 +28,5 @@ const awakening = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ![Awakening's github stats uwu](https://github-readme-stats.vercel.app/api?username=AwakeningProgrammer&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwakeningProgrammer&layout=compact)
