@@ -1,5 +1,7 @@
 # Hello 🤪 My Name Is AwakeningProgrammer shhhh
 
+![banner](./standard (16))
+
 ## Lets get to know each other 😊
 
 ```js
