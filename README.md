@@ -14,7 +14,7 @@ const awakening = {
 
         {
             name: "Farm Development",
-            developers: "Awakening Developer"&&"Zihad",
+            developers: "Awakening Programmer"&&"Zihad",
             discordbot: "FarmUp"
         }
     ]
