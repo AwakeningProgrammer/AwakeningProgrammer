@@ -1,6 +1,6 @@
 # Hello 🤪 My Name Is AwakeningProgrammer shhhh
 
-![banner](./standard (16))
+![banner](./standard (16).gif)
 
 ## Lets get to know each other 😊
 
